@@ -1,2 +1,2 @@
 # PrepCourseHenry
-Este repositorio es del modulo 2 
+Este repositorio es la prueba de como clonar reposiorios de github
